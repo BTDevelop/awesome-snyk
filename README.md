@@ -21,6 +21,7 @@ A curated list of Snyk related tools, frameworks and articles.
     - [Community](#community)
     - [Podcasts](#podcasts)
     - [Training](#training)
+    - [Contribute](#contribute)
 
 
 ### Official Projects
@@ -86,3 +87,5 @@ A curated list of Snyk related tools, frameworks and articles.
 
 - https://learn.snyk.io/
 
+### Contribute
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
